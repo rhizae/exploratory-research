@@ -1,1 +1,21 @@
-# exploratory-research
+# Random Explatory Projects
+- [Bills and Laws Classifcation](/BillAndLawClassification/README.md)
+    - Summarize at an 8th grade reading level
+    - Sector impact
+    - Pro business, government, civilian percentage
+- [Cryptocurrency Energy Consumption Indicator](/CryptoEnergyConsumption/README.md)
+    - Shows general energy consumption
+    - Shows sources that use coal
+    - Shows sources that use green energy
+    - Ranks companies on green energy usage
+- [ESG Point System for Politicans](/ESGPoliticans/README.MD)
+    - Gives point systems to politicans based on campaign funding and positions on laws and bills
+    - Summarize careers actions
+- [ESG Prediction](/ESGPrediction/README.MD)
+    - Given a company's website delivers a ESG score
+- [Green Bonds Forcasting](/GreenBondsForcasting/README.MD)
+- [Green Energy Forcasting](/GreenEnergyForcasting/README.MD)
+- [Green Trading Bot](/GreenTradingBot/README.MD)
+- [News Classfication](/NewsClassification/README.MD)
+- [Pairs Trading](/PairsTrading/README.MD)
+- [Research Classifcation](/ResearchClassification/README.MD)

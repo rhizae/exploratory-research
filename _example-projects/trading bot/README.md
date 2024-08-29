@@ -1,0 +1,5 @@
+- Trading Bot with Technical and Sentiment Analysis
+    - Beyond Candlesticks
+    - The art and science of technical analysis
+    - r/algotrading
+    - github.com/cyrptocontrol/sentiment-trading -bot
